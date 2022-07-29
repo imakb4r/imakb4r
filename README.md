@@ -24,7 +24,7 @@
 
 - Flutter Developer
 - 📫 How to reach me **imakb4r@proton.me**
-- ⚡ Fun fact **I think I can write poetry.**
+- ⚡ Fun fact **If you love poetry you are already favourite.**
 
 
 ### ⚡️ Stats
