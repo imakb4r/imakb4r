@@ -1,3 +1,5 @@
+![gif](coding.gif)
+
 <p align="center">
   <a href="https://github.com/imakb4r?tab=followers">
     <img src="https://img.shields.io/github/followers/imakb4r?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
