@@ -35,4 +35,13 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=imakb4r&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
 
+<details>
+  <summary>📊 Github Stats</summary>
 
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codingknite&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
+
+</details>
+
+  #### Profile Views
+  
+![Visitor Count](https://profile-counter.glitch.me/{imakb4r}/count.svg)
