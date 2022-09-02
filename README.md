@@ -1,4 +1,4 @@
-![gif](coding.gif)
+![gif](programming.gif)
 
 <p align="center">
   <a href="https://github.com/imakb4r?tab=followers">
